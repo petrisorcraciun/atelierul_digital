@@ -1,2 +1,60 @@
-# atelierul_digital
 Atelierul Digital Google - Android Fundamentals
+
+
+## Android Fundamentals Curriculum (30 h) - October 2020
+- Build Your First App
+    - Why Android?
+    - How to start? (process)
+    - Android Studio & Git
+    - Android Platform Architecture & Project Structure
+    - Deploying the app to an emulator and a device
+- Building a layout with UI elements - Views
+    - Size, margin, padding, units, gravity
+    - TextView
+    - ImageView
+    - EditText
+    - Button
+    - View
+    - CheckBox
+    - RadioButton
+    - RatingBar
+    - Switch
+    - SeekBar
+    - ProgressBar
+- ViewGroups
+    - LinearLayout
+    - FrameLayout
+    - RelativeLayout
+    - ScrollView
+    - Spinner
+- Complex Views
+    - RecyclerView
+    - ConstraintLayout
+- Activities and Intents
+    - Activity
+    - Activity lifecycle
+        - startActivityForResult()
+        - onSaveInstanceState()
+    - Intent
+        - Implicit intents
+        - Explicit intents
+    - Bundle
+    - Activities stack
+    - Debugging
+- Navigation and user interaction
+    - Fragments
+        - Methods
+        - Fragment lifecycle
+    - Navigation drawer
+- Styles and more
+    - Themes, styles and material design
+    - Support libraries
+    - Permissions
+- Networking
+    - Http requests (Retrofit)
+    - Firebase
+- Store data in Android
+    - SharedPreferences
+    - File manager
+    - SQLite (Room)
+    - Publish the app on the market
