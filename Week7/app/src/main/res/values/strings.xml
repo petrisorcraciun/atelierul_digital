@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Week7</string>
+    <string name="minus_sign">-</string>
+    <string name="plus_sign">+</string>
+
+    <string name="txtHobbies">This is a simple message</string>
+
+</resources>
