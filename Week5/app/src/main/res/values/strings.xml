@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Week5</string>
+
+    <string name="hello_sender">Hello, %1$s! </string>
+    <string name="inner_click">Inner Click</string>
+    <string name="title_activity_drawer">DrawerActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Ionut Negru</string>
+    <string name="nav_header_subtitle">ionut.negru87@gmail.com</string>
+
+    <string name="api_version_prompt">Choose Android version:</string>
+    <string name="title_activity_first">FirstActivity</string>
+    <string name="start_for_result">Start For Result</string>
+    <string name="enter_your_name">Enter your name!</string>
+    <string name="send_to_receiver">SEND to Receiver</string>
+    <string name="waiting_for_message">Waiting for message…</string>
+    <string name="label_send_to_receiver">Send the text provided in the input field to the receiver activity.</string>
+    <string name="label_start_for_result">Send an hardcoded text and wait for the result from the receiver activity.</string>
+    <string name="invalid_response_message">Invalid response message!</string>
+
+    <string name="error_receiving_sender">Could not process sender name!</string>
+    <string name="hint_response_message">Enter your response</string>
+    <string name="title_respond">Respond</string>
+
+
+</resources>
