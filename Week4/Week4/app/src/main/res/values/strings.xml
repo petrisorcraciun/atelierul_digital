@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Week4</string>
+    <string name="happyHolidays">Happy Holidays!</string>
+    <string name="from">From personName</string>
+    <string name="bigStar">star big</string>
+    <string name="merryMessage">Have yourself a merry Christmas,\nLet your heart be light\n From now on, our troubles will be out of sight</string>
+    <string name="snowMessage">Let it snow</string>
+    <string name="jinglesMessage">Jingles bells</string>
+</resources>
